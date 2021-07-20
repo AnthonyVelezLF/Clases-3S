@@ -2,6 +2,7 @@
 # Anthony Velez
 # Software - Tercer semestre
 
+
 class Cargo:
     secuencia=0
     def __init__(self,des="sin cargo"):
